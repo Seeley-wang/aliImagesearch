@@ -1,5 +1,5 @@
 {
-  "name": "seeley/aliImagesearch",
+  "name": "seeley/ali-imagesearch",
   "description": "Alibaba Cloud image search (20200212) SDK Library for PHP",
   "type": "library",
   "license": "Apache-2.0",
